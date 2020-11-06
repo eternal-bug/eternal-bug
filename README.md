@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 + 📐: Bioinformatics
 + 🐪: A perler like to grow vegetables
 + 🐍: A pythoneer like eating own tail
-+ 📮: zelda_legend@163.com
-+ 📕: [A Chinese cabbage code trolley](https://www.jianshu.com/u/47e00a43ceda)
+
 -->
 
 ### 😹骑着BUG找BUG？👋
@@ -38,7 +37,9 @@ Here are some ideas to get you started:
 | - | - | - | - |
 | 🚀   | The bug run out of the milky way | 🐪 |  A perler like to grow vegetables |
 |  💬 | Ask me about how to write like above bug?  |  🐍 | A pythoneer like eating own tail  |
-|  🤔 | Do with feynman algorithm  | 📮  | zelda_legend@163.com  |
-| ⚡ | It can run as fast as you imagined | 📕 | [A Chinese cabbage code trolley](https://www.jianshu.com/u/47e00a43ceda) |
+|  🤔 | Do with feynman algorithm  | 🐚  | A shell like to self closing  |
+| ⚡ | It can run as fast as you imagined | ➰ | A R ring blind dog eye |
 
++ 📮: zelda_legend@163.com
++ 📕: [A Chinese cabbage code trolley](https://www.jianshu.com/u/47e00a43ceda)
 
