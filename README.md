@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 
 ### 😹骑着BUG找BUG？👋
 
----
-
 | 🎮 | Games is necessary | 📐 | Bioinformatics |
 | - | - | - | - |
 | 🚀   | The bug run out of the milky way | 🐪 |  A perler like to grow vegetables |
