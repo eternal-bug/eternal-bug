@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **eternal-bug/eternal-bug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,9 +15,12 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=onevcat&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### 你好，世界 👋
+### 骑着BUG找BUG？👋
 
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
++ 🎮: Games is necessary
++ 🚀: The bug run out of the milky way
++ 💬: Ask me about how to write like above bug?
++ 📐: Bioinformatics 
++ 📮: zelda_legend@163.com
++ 🐪: A perler like grow vegetables
++ 🐍: A pythonista like eating own tail
