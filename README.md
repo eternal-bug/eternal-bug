@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 + 📕: [A Chinese cabbage code trolley](https://www.jianshu.com/u/47e00a43ceda)
 -->
 
-### 骑着BUG找BUG？👋
+### 😹骑着BUG找BUG？👋
+
+---
 
 | 🎮 | Games is necessary | 📐 | Bioinformatics |
 | - | - | - | - |
