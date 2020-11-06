@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 
 | 🎮 | Games is necessary | 📐 | Bioinformatics |
 | - | - | - | - |
-| 🚀   | The bug run out of the milky way | 🐪 |  A perler like to grow vegetables |
-|  💬 | Ask me about how to write like above bug?  |  🐍 | A pythoneer like eating own tail  |
-|  🤔 | Do with feynman algorithm  | 🐚  | A shell like to self closing  |
-| ⚡ | It can run as fast as you imagined | ➰ | A R ring blind dog eye |
+|🌌| The bug run out of the milky way | 🐪 |  A perler like to grow vegetables |
+|💬| Ask me about how to write like above bug?  |  🐍 | A pythoneer like eating own tail  |
+|🤔| Do with feynman algorithm  | 🐚  | A shell like to self closing  |
+|⚡| It can run as fast as you imagined | ➰ | A R ring blind dog eye |
 
 
