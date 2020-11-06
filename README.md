@@ -24,3 +24,10 @@ Here are some ideas to get you started:
 + 🐪: A perler like to grow vegetables
 + 🐍: A pythoneer like eating own tail
 + 📮: zelda_legend@163.com
++ 📕: [A Chinese cabbage code trolley](https://www.jianshu.com/u/47e00a43ceda)
+
+| 🌿 | 🌿 |  🚶  | 🌿|  🌿 | 🌿 | 🌿 | 🌿 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 🌿 | 🌿 |  🚶  | 🌿|  🌿 | 🌿 | 🌿 | 🌿 |
+| 🌿 | 🌷 |  🌿 | 🌿 | 🐫 | 🌿 | 🌷 | 🌿 |
+| 🌷 | 🌿 |  🌿 | 🌿 | 🐍 | 🌿 | 🌿 | 🌿 |
