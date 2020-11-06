@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 + 💬: Ask me about how to write like above bug?
 + 📐: Bioinformatics
 + 🐪: A perler like to grow vegetables
-+ 🐍: A pythonista like eating own tail
++ 🐍: A pythoneer like eating own tail
 + 📮: zelda_legend@163.com
