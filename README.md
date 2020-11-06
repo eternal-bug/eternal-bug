@@ -40,6 +40,4 @@ Here are some ideas to get you started:
 |  🤔 | Do with feynman algorithm  | 🐚  | A shell like to self closing  |
 | ⚡ | It can run as fast as you imagined | ➰ | A R ring blind dog eye |
 
-+ 📮: zelda_legend@163.com
-+ 📕: [A Chinese cabbage code trolley](https://www.jianshu.com/u/47e00a43ceda)
 
