@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 -->
 
-### 😹骑着BUG找BUG？👋
+### 😹找BUG？👋
 
 | 🎮 | Games is necessary | 📐 | Bioinformatics |
 | - | - | - | - |
